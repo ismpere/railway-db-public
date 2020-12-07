@@ -64,9 +64,9 @@
   - [in the prerequisites for transaction 5](https://github.com/ADB-Team/railway-db-public/blob/main/query-plans/original/transaction5.md#for-every-connection)
   - [in backup transaction 5](https://github.com/ADB-Team/railway-db-public/blob/main/query-plans/original/backup-transaction5.md)
   
-  # Optional
+# Optional
   
-  ## Partition 6
+## Partition 6
 
 - **What:** Partition table trains by train_type.
 - **Type:** value list
