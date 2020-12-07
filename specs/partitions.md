@@ -77,7 +77,7 @@
 - **Used in:**
 
   - [in transaction 1](https://github.com/ADB-Team/railway-db-public/blob/main/query-plans/original/transaction1.md#main-query)
-  - [join](https://github.com/ADB-Team/railway-db-public/blob/main/query-plans/original/transaction3.md#join-routes-and-train-for-every-starting-time) in transaction 3
+  - [join in transaction 3](https://github.com/ADB-Team/railway-db-public/blob/main/query-plans/original/transaction3.md#join-routes-and-train-for-every-starting-time)
   - [creating routes in transaction 3](https://github.com/ADB-Team/railway-db-public/blob/main/query-plans/original/transaction3.md#create-routes)
   - [inserting connections in transaction 3](https://github.com/ADB-Team/railway-db-public/blob/main/query-plans/original/transaction3.md#insert-connections)
   - [in transaction 5](https://github.com/ADB-Team/railway-db-public/blob/main/query-plans/original/transaction5.md#main-query)
