@@ -15,6 +15,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 ## Transaction 3
@@ -29,6 +31,8 @@
 - old avg: 3.727 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -46,6 +50,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -61,6 +67,8 @@
 - old avg: 2.012 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -78,6 +86,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -94,6 +104,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -109,6 +121,8 @@
 - old avg: 4.238 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -131,6 +145,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 ## Transaction 3
@@ -145,6 +161,8 @@
 - old avg: 3.727 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -162,6 +180,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -177,6 +197,8 @@
 - old avg: 2.012 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -194,6 +216,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -210,6 +234,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -225,6 +251,8 @@
 - old avg: 4.238 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -247,6 +275,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 ## Transaction 3
@@ -261,6 +291,8 @@
 - old avg: 3.727 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -278,6 +310,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -293,6 +327,8 @@
 - old avg: 2.012 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -310,6 +346,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -326,6 +364,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -341,6 +381,8 @@
 - old avg: 4.238 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -362,6 +404,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 ## Transaction 3
@@ -376,6 +420,8 @@
 - old avg: 3.727 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -393,6 +439,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -408,6 +456,8 @@
 - old avg: 2.012 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -425,6 +475,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -441,6 +493,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -456,6 +510,8 @@
 - old avg: 4.238 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -477,6 +533,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 ## Transaction 3
@@ -491,6 +549,8 @@
 - old avg: 3.727 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -508,6 +568,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -523,6 +585,8 @@
 - old avg: 2.012 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -540,6 +604,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -556,6 +622,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -571,6 +639,8 @@
 - old avg: 4.238 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -592,6 +662,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 ## Transaction 3
@@ -606,6 +678,8 @@
 - old avg: 3.727 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -623,6 +697,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -638,6 +714,8 @@
 - old avg: 2.012 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -655,6 +733,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -671,6 +751,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -686,6 +768,8 @@
 - old avg: 4.238 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -708,6 +792,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 ## Transaction 3
@@ -722,6 +808,8 @@
 - old avg: 3.727 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -739,6 +827,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -754,6 +844,8 @@
 - old avg: 2.012 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -771,6 +863,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -787,6 +881,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -802,6 +898,8 @@
 - old avg: 4.238 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -822,6 +920,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 ## Transaction 3
@@ -836,6 +936,8 @@
 - old avg: 3.727 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -853,6 +955,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -868,6 +972,8 @@
 - old avg: 2.012 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
 
@@ -885,6 +991,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -901,6 +1009,8 @@
 - new avg:
 - diff:
 
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
+
 ### Explanation
 
 
@@ -916,5 +1026,7 @@
 - old avg: 4.238 s
 - new avg:
 - diff:
+
+→ all runtimes [here](https://github.com/ADB-Team/railway-db-public/blob/main/doc/runtimes.md)
 
 ### Explanation
