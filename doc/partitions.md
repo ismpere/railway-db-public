@@ -11,7 +11,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 0.56 s
 - new avg:
 - diff:
 
@@ -26,7 +26,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 3.727 s
 - new avg:
 - diff:
 
@@ -42,7 +42,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.953 s
 - new avg:
 - diff:
 
@@ -58,7 +58,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 2.012 s
 - new avg:
 - diff:
 
@@ -74,7 +74,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.155 s
 - new avg:
 - diff:
 
@@ -90,7 +90,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.867 s
 - new avg:
 - diff:
 
@@ -106,7 +106,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.238 s
 - new avg:
 - diff:
 
@@ -127,7 +127,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 0.56 s
 - new avg:
 - diff:
 
@@ -142,7 +142,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 3.727 s
 - new avg:
 - diff:
 
@@ -158,7 +158,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.953 s
 - new avg:
 - diff:
 
@@ -174,7 +174,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 2.012 s
 - new avg:
 - diff:
 
@@ -190,7 +190,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.155 s
 - new avg:
 - diff:
 
@@ -206,7 +206,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.867 s
 - new avg:
 - diff:
 
@@ -222,11 +222,12 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.238 s
 - new avg:
 - diff:
 
 ### Explanation
+
 
 
 # Partition 3
@@ -242,7 +243,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 0.56 s
 - new avg:
 - diff:
 
@@ -257,7 +258,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 3.727 s
 - new avg:
 - diff:
 
@@ -273,7 +274,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.953 s
 - new avg:
 - diff:
 
@@ -289,7 +290,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 2.012 s
 - new avg:
 - diff:
 
@@ -305,7 +306,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.155 s
 - new avg:
 - diff:
 
@@ -321,7 +322,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.867 s
 - new avg:
 - diff:
 
@@ -337,7 +338,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.238 s
 - new avg:
 - diff:
 
@@ -357,7 +358,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 0.56 s
 - new avg:
 - diff:
 
@@ -372,7 +373,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 3.727 s
 - new avg:
 - diff:
 
@@ -388,7 +389,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.953 s
 - new avg:
 - diff:
 
@@ -404,7 +405,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 2.012 s
 - new avg:
 - diff:
 
@@ -420,7 +421,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.155 s
 - new avg:
 - diff:
 
@@ -436,7 +437,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.867 s
 - new avg:
 - diff:
 
@@ -452,7 +453,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.238 s
 - new avg:
 - diff:
 
@@ -472,7 +473,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 0.56 s
 - new avg:
 - diff:
 
@@ -487,7 +488,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 3.727 s
 - new avg:
 - diff:
 
@@ -503,7 +504,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.953 s
 - new avg:
 - diff:
 
@@ -519,7 +520,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 2.012 s
 - new avg:
 - diff:
 
@@ -535,7 +536,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.155 s
 - new avg:
 - diff:
 
@@ -551,7 +552,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.867 s
 - new avg:
 - diff:
 
@@ -567,7 +568,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.238 s
 - new avg:
 - diff:
 
@@ -587,7 +588,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 0.56 s
 - new avg:
 - diff:
 
@@ -602,7 +603,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 3.727 s
 - new avg:
 - diff:
 
@@ -618,7 +619,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.953 s
 - new avg:
 - diff:
 
@@ -634,7 +635,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 2.012 s
 - new avg:
 - diff:
 
@@ -650,7 +651,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.155 s
 - new avg:
 - diff:
 
@@ -666,7 +667,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.867 s
 - new avg:
 - diff:
 
@@ -682,11 +683,12 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.238 s
 - new avg:
 - diff:
 
 ### Explanation
+
 
 
 # Partition 7
@@ -702,7 +704,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 0.56 s
 - new avg:
 - diff:
 
@@ -717,7 +719,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 3.727 s
 - new avg:
 - diff:
 
@@ -733,7 +735,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.953 s
 - new avg:
 - diff:
 
@@ -749,7 +751,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 2.012 s
 - new avg:
 - diff:
 
@@ -765,7 +767,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.155 s
 - new avg:
 - diff:
 
@@ -781,7 +783,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.867 s
 - new avg:
 - diff:
 
@@ -797,11 +799,12 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.238 s
 - new avg:
 - diff:
 
 ### Explanation
+
 
 
 # All partitions together
@@ -815,7 +818,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 0.56 s
 - new avg:
 - diff:
 
@@ -830,7 +833,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 3.727 s
 - new avg:
 - diff:
 
@@ -846,7 +849,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.953 s
 - new avg:
 - diff:
 
@@ -862,7 +865,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 2.012 s
 - new avg:
 - diff:
 
@@ -878,7 +881,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.155 s
 - new avg:
 - diff:
 
@@ -894,7 +897,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 1.867 s
 - new avg:
 - diff:
 
@@ -910,7 +913,7 @@
 
 ### Performance
 
-- old avg:
+- old avg: 4.238 s
 - new avg:
 - diff:
 
