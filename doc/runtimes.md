@@ -1,4 +1,4 @@
-| transaction                   | 1st run | 2nd run | 3rd run | 4th run | 5th run | 6th run | 7th run | 8th run | 9th run | 10th run | avg    | min   | max   | diff    | 
+| transaction                   | 1st run | 2nd run | 3rd run | 4th run | 5th run | 6th run | 7th run | 8th run | 9th run | 10th run | avg    | min   | max   | diff(avg)    | 
 |-------------------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|--------|-------|-------|---------| 
 | ***Without partitions or indexes*** |         |         |         |         |         |         |         |         |         |          |        |       |       |         | 
 | transaction 1                 | 0.542   | 0.544   | 0.548   | 0.545   | 0.547   | 0.534   | 0.56    | 0.411   | 0.537   | 0.538    | 0.5306 | 0.411 | 0.56  |         | 
